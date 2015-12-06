@@ -1,0 +1,7 @@
+﻿{
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Data Source=SUPER-PC\\SQLEXP2008R2;Database=aspnet5-TicketsSearch.Web.UI-cbe6c369-9ffb-4ca0-b371-df7e82af8c0a;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
